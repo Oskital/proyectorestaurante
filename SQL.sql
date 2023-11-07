@@ -1,0 +1,1 @@
+SELECT * FROM restaurante.tabla_pedidos;
